@@ -1,2 +1,2 @@
-# sz-utility-bot
+# utility-bot
 Utility bot for my Discord server.
